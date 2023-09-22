@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267614500563",
+    "project_id": "legalai-bbecd",
+    "storage_bucket": "legalai-bbecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267614500563:android:0aec2118b8ed372b0bc626",
+        "android_client_info": {
+          "package_name": "com.example.legalai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxm3Uued1_MJ51TGhT1401vRweM-h62SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
